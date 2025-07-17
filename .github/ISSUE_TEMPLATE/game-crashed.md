@@ -1,9 +1,9 @@
 ---
-name: Enderium has a bug
+name: Game crashed
 about: Write your version of Minecraft and modloader, write your version of mod and
   describe a problem
-title: "[BUG]"
-labels: bug
+title: ''
+labels: crash
 assignees: ''
 
 ---
@@ -11,4 +11,4 @@ assignees: ''
 Minecraft version:
 Modloader:
 Enderium version:
-Describe your problem:
+What did you do that caused the crash:
