@@ -1,7 +1,6 @@
 ---
 name: Game crashed
-about: Write your version of Minecraft and modloader, write your version of mod and
-  describe a problem
+about: Crashed by Enderium
 title: "[CRASH]"
 labels: crash
 assignees: ''
